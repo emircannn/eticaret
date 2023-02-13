@@ -1,0 +1,70 @@
+[
+    {
+    "id": 6,
+    "name": "Woman Bannie",
+    "price": {
+        "oldPrice": 70.00,
+        "newPrice": 65.00
+    },
+    "discount": 22,
+    "img": {
+        "singleImage": "https://dfcdn.defacto.com.tr/7/R7539AZ_22WN_BN450_01_02.jpg",
+        "thumbs": [
+            "https://dfcdn.defacto.com.tr/7/R7539AZ_22WN_BN450_01_02.jpg",
+            "https://dfcdn.defacto.com.tr/7/R7539AZ_22WN_BN450_02_02.jpg",
+            "https://dfcdn.defacto.com.tr/7/R7539AZ_22WN_BN450_04_02.jpg"
+        ]
+    }
+},
+{
+    "id": 7,
+    "name": "Ridley High Waist",
+    "price": {
+        "oldPrice": 165.00,
+        "newPrice": 208.00
+    },
+    "discount": 33,
+    "img": {
+        "singleImage": "https://dfcdn.defacto.com.tr/7/V0385AZ_22WN_BN227_01_02.jpg",
+        "thumbs": [
+            "https://dfcdn.defacto.com.tr/7/V0385AZ_22WN_BN227_01_02.jpg",
+            "https://dfcdn.defacto.com.tr/7/V0385AZ_22WN_BN227_05_01.jpg",
+            "https://dfcdn.defacto.com.tr/7/V0385AZ_22WN_BN227_02_02.jpg"
+        ]
+    }
+},
+{
+    "id": 8,
+    "name": "Blush Beanie",
+    "price": {
+        "oldPrice": 165.00,
+        "newPrice": 38.00
+    },
+    "discount": 90,
+    "img": {
+        "singleImage": "https://dfcdn.defacto.com.tr/7/N7447AZ_22WN_RD1_01_02.jpg",
+        "thumbs": [
+            "https://dfcdn.defacto.com.tr/7/N7447AZ_22WN_RD1_01_02.jpg",
+            "https://dfcdn.defacto.com.tr/7/N7447AZ_22WN_RD1_02_02.jpg",
+            "https://dfcdn.defacto.com.tr/7/N7447AZ_22WN_RD1_05_01.jpg"
+        ]
+    }
+},
+{
+    "id": 9,
+    "name": "Mercury Tee",
+    "price": {
+        "oldPrice": 165.00,
+        "newPrice": 48.00
+    },
+    "discount": 40,
+    "img": {
+        "singleImage": "https://dfcdn.defacto.com.tr/7/Y8628AZ_NS_KR1_01_02.jpg",
+        "thumbs": [
+            "https://dfcdn.defacto.com.tr/7/Y8628AZ_NS_KR1_01_02.jpg",
+            "https://dfcdn.defacto.com.tr/7/Y8628AZ_NS_KR1_02_02.jpg",
+            "https://dfcdn.defacto.com.tr/7/Y8628AZ_NS_KR1_03_02.jpg"
+   ]
+}
+}
+]

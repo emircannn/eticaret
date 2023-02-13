@@ -1,0 +1,64 @@
+.section-title{
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.section-title h2{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+/** Categories */ 
+.categories{
+    margin: 40px 0;
+}
+
+.category-list{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+/** Categories */ 
+
+/** Products*/
+
+.products{
+ margin-bottom: 40px;
+}
+
+/* .product-list{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+} */
+/** Products*/
+
+/** Campaigns */ 
+.campaigns-wrapper{
+    display: flex;
+    gap: 30px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+}
+/** Campaigns */ 
+
+/** Blog */
+
+.blog{
+    margin-bottom: 30px;
+}
+.blog-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+/** Blog */
+
+/** responsive */
+@media (max-width: 768px) {
+    .blog .blog-list{
+        grid-template-columns: 1fr;
+    }
+}
+/** responsive */

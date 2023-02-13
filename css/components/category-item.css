@@ -1,0 +1,25 @@
+.category-item{
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.category-item a{
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    margin: 5px 0;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.category-item .category-image{
+    width: 100%;
+    transition: all ease .2s;
+}
+.category-item .category-image:hover{
+    transform: scale(1.1);
+}
+

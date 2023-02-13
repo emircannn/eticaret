@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Analogue Resin Strap",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 22,
+        "img": {
+            "singleImage": "https://dfcdn.defacto.com.tr/7/Y8625AZ_NS_KR1_01_02.jpg",
+            "thumbs": [
+                "https://dfcdn.defacto.com.tr/7/Y8625AZ_NS_KR1_01_02.jpg",
+                "https://dfcdn.defacto.com.tr/7/Y8625AZ_NS_KR1_02_01.jpg",
+                "https://dfcdn.defacto.com.tr/7/Y8625AZ_NS_KR1_06_02.jpg"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ridley High Waist",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 208.00
+        },
+        "discount": 33,
+        "img": {
+            "singleImage": "https://dfcdn.defacto.com.tr/7/X9376AZ_22AU_IN233_01_01.jpg",
+            "thumbs": [
+                "https://dfcdn.defacto.com.tr/7/X9376AZ_22AU_IN233_01_01.jpg",
+                "https://dfcdn.defacto.com.tr/7/X9376AZ_22AU_IN233_02_01.jpg",
+                "https://dfcdn.defacto.com.tr/7/X9376AZ_22AU_IN233_07_01.jpg"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Blush Beanie",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 38.00
+        },
+        "discount": 90,
+        "img": {
+            "singleImage": "https://dfcdn.defacto.com.tr/7/X7030AZ_22WN_BK27_01_02.jpg",
+            "thumbs": [
+                "https://dfcdn.defacto.com.tr/7/X7030AZ_22WN_BK27_01_02.jpg",
+                "https://dfcdn.defacto.com.tr/7/X7030AZ_22WN_BK27_02_02.jpg",
+                "https://dfcdn.defacto.com.tr/7/X7030AZ_22WN_BK27_06_01.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mercury Tee",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "https://dfcdn.defacto.com.tr/7/Y8526AZ_22AU_GR210_03_01.jpg",
+            "thumbs": [
+                "https://dfcdn.defacto.com.tr/7/Y8526AZ_22AU_GR210_03_01.jpg",
+                "https://dfcdn.defacto.com.tr/7/Y8526AZ_22AU_GR210_01_01.jpg",
+                "https://dfcdn.defacto.com.tr/7/Y8526AZ_22AU_GR210_05_01.jpg"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "La Bohème Rose Gold",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "https://dfcdn.defacto.com.tr/7/X7384AZ_22AU_YL225_03_02.jpg",
+            "thumbs": [
+                "https://dfcdn.defacto.com.tr/7/X7384AZ_22AU_YL225_03_02.jpg",
+                "https://dfcdn.defacto.com.tr/7/X7384AZ_22AU_YL225_04_01.jpg",
+                "https://dfcdn.defacto.com.tr/7/X7384AZ_22AU_YL225_05_01.jpg"
+            ]
+        }
+    }
+]
